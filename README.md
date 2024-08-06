@@ -65,29 +65,41 @@ Habit Tracker is a Java application with a graphical user interface (GUI) design
 - **Progress Tracking**: Logic to simulate progress data for demonstration purposes.
 
 ## Screenshots
-**Main Frame:**
-![image](https://github.com/user-attachments/assets/cf2dd902-37e0-4a0e-9e63-5c513b911158)
-![image](https://github.com/user-attachments/assets/b88d2864-fc78-463f-bb98-798424970a63)
-**If Wrong Input:**
-![image](https://github.com/user-attachments/assets/7fa6f29b-db40-4a38-adc7-bdd77b87f6e6)
-**Home View:**
-![image](https://github.com/user-attachments/assets/6ccf71d9-cb55-402d-b53f-9182ed1ebefe)
-**When you Click Add good Habit Button:**
-![image](https://github.com/user-attachments/assets/ad15fc61-6b5f-4946-9da9-41e8ff34ca0e)
-**Add Habit:**
-![image](https://github.com/user-attachments/assets/a4d4d596-cb6c-4940-a373-ce782985067c)
-**Remove Habit:**
-![image](https://github.com/user-attachments/assets/3ac45301-f5ec-402d-9806-823286c6bb23)
-**When you Click Mark Track Button: Mark Complete or Mark Incomplete**
-![image](https://github.com/user-attachments/assets/bf4b8c27-5f7e-48ef-ad72-2aaea3729583)
-**When you Click Habit Progress Button:**
-**View Progress by date:**
-![image](https://github.com/user-attachments/assets/17fcd2a3-e952-4a8a-8a11-266f84f3d23d)
-**View Progress by week:**
-![image](https://github.com/user-attachments/assets/963adfb2-a6e8-46f9-92f8-6732c8b4f231)
-**View Progress by Month:**
-![image](https://github.com/user-attachments/assets/1c8f8ec7-4223-4a97-a3d1-3ea39b975345)
-**View Progress by Year:**
-![image](https://github.com/user-attachments/assets/6291afa8-b769-4bf3-ad30-2851dda26fa8)
-**Checking Track of Marked Habits:**
-![image](https://github.com/user-attachments/assets/903a57a9-f4fc-4042-b469-97767606178e)
+### Main Frame:
+![Main Frame](https://github.com/user-attachments/assets/cf2dd902-37e0-4a0e-9e63-5c513b911158)
+![Main Frame](https://github.com/user-attachments/assets/b88d2864-fc78-463f-bb98-798424970a63)
+
+### If Wrong Input:
+![If Wrong Input](https://github.com/user-attachments/assets/7fa6f29b-db40-4a38-adc7-bdd77b87f6e6)
+
+### Home View:
+![Home View](https://github.com/user-attachments/assets/6ccf71d9-cb55-402d-b53f-9182ed1ebefe)
+
+### When you Click Add Good Habit Button:
+![Add Good Habit Button](https://github.com/user-attachments/assets/ad15fc61-6b5f-4946-9da9-41e8ff34ca0e)
+
+### Add Habit:
+![Add Habit](https://github.com/user-attachments/assets/a4d4d596-cb6c-4940-a373-ce782985067c)
+
+### Remove Habit:
+![Remove Habit](https://github.com/user-attachments/assets/3ac45301-f5ec-402d-9806-823286c6bb23)
+
+### When you Click Mark Track Button: Mark Complete or Mark Incomplete
+![Mark Track](https://github.com/user-attachments/assets/bf4b8c27-5f7e-48ef-ad72-2aaea3729583)
+
+### When you Click Habit Progress Button:
+
+#### View Progress by Date:
+![View Progress by Date](https://github.com/user-attachments/assets/17fcd2a3-e952-4a8a-8a11-266f84f3d23d)
+
+#### View Progress by Week:
+![View Progress by Week](https://github.com/user-attachments/assets/963adfb2-a6e8-46f9-92f8-6732c8b4f231)
+
+#### View Progress by Month:
+![View Progress by Month](https://github.com/user-attachments/assets/1c8f8ec7-4223-4a97-a3d1-3ea39b975345)
+
+#### View Progress by Year:
+![View Progress by Year](https://github.com/user-attachments/assets/6291afa8-b769-4bf3-ad30-2851dda26fa8)
+
+### Checking Track of Marked Habits:
+![Checking Track](https://github.com/user-attachments/assets/903a57a9-f4fc-4042-b469-97767606178e)
